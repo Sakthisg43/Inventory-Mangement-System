@@ -1,0 +1,47 @@
+
+.itemDetails{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 2rem;
+    
+}
+.itemDetailsForm{
+    display: flex;
+    padding: 3rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5rem;
+    width: 50rem;
+    align-items: center;
+    background-color: #b6ecf8;
+}
+.itemHead{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.buttonContainer{
+    padding: 1rem;
+    background: #007AFF;
+    color: white;
+    border: none;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+.submitHead{
+    font-family: sans-serif;
+}
+.submitedtext{
+    font-family: sans-serif;
+}
+.submission{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+}

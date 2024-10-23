@@ -1,0 +1,28 @@
+.inputConatiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+.form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: baseline;
+
+}
+.label{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.Input{
+    padding: 0.5rem;
+    width: 20rem;
+    border-radius: 0.5rem;
+    border: 1px solid grey;
+}
+.checkbox{
+    
+}
